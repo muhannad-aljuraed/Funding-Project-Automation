@@ -2,6 +2,8 @@
 
 An automated workflow built with n8n that extracts structured data from promissory note PDFs via Telegram and logs it directly into Google Sheets.
 
+<img width="800" alt="Workflow Overview" src="https://github.com/user-attachments/assets/bb9213d6-3b60-48fc-845c-225b2e25de52" />
+
 ## ⚙️ How It Works
 
 1. **Telegram Trigger** — Listens for incoming messages on a Telegram bot
