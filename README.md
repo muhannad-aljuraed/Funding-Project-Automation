@@ -2,7 +2,7 @@
 
 An automated workflow built with n8n that extracts structured data from promissory note PDFs via Telegram and logs it directly into Google Sheets.
 
-<img width="800" alt="Workflow Overview" src="https://github.com/user-attachments/assets/bb9213d6-3b60-48fc-845c-225b2e25de52" />
+<img width="800" alt="Workflow Overview" src="https://github.com/user-attachments/assets/d00d4d3f-6075-470e-a965-4e449392d37e" />
 
 ## ⚙️ How It Works
 
